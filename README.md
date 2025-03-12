@@ -13,7 +13,7 @@
 
 ## 📋 目录
 1. [什么是 ChatGPT 国内免翻墙免费版服务？](#什么是ChatGPT国内免翻墙免费版服务？)
-2. [DeepSeek-R1 与 GPT-4 的区别](#deepseek-r1-与-GPT-4-的区别)
+2. [DeepSeek-R1 与 GPT-4 的区别](#DeepSeek-R1 与 GPT-4 的区别)
 3. [如何免费使用ChatGPT国内免翻墙服务（支持满血版DeepSeek-R1）](#如何免费使用ChatGPT国内免翻墙服务（支持满血版DeepSeek-R1)
 4. [ChatGPT 和 DeepSeek-R1 的强大功能与应用场景](#chatgot-和-deepseek-r1-的强大功能与应用场景)
 5. [常见问题解答（FAQ）](#常见问题解答faq)
